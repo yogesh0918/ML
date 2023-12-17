@@ -1,0 +1,13 @@
+
+
+Model:LinearRegression
+Mean: 5.037465485528445
+Standard Deviation: 1.0594525043341494
+
+Model:DecisionTreeRegressor
+Mean: 4.271935999042942
+Standard Deviation: 0.7775257916406063
+
+Model:RandomForestRegressor
+Mean: 3.3004409370000416
+Standard Deviation: 0.7049101590627662
